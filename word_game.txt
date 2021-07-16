@@ -1,3 +1,4 @@
 강아지
 지하철
 철새
+새마을   - branch : game_upgrade 에서 수정함
